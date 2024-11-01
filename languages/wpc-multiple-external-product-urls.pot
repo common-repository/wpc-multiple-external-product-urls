@@ -1,0 +1,228 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Multiple External Product URLs for WooCommerce 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-multiple-external-product-urls\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-01T02:45:45+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-multiple-external-product-urls\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Multiple External Product URLs for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows you to create multiple external / affiliate product URLs for any product and variation."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/class-backend.php:49
+#: includes/class-backend.php:113
+#: includes/class-backend.php:233
+#: includes/class-backend.php:293
+msgid "External URLs"
+msgstr ""
+
+#: includes/class-backend.php:72
+msgid "Product wasn't returned."
+msgstr ""
+
+#: includes/class-backend.php:85
+#: includes/class-backend.php:293
+#: includes/class-backend.php:303
+msgid "WPC Multiple External Product URLs"
+msgstr ""
+
+#: includes/class-backend.php:116
+#: includes/class-backend.php:135
+#: includes/class-backend.php:148
+msgid "No"
+msgstr ""
+
+#: includes/class-backend.php:117
+#: includes/class-backend.php:136
+#: includes/class-backend.php:149
+msgid "Yes"
+msgstr ""
+
+#: includes/class-backend.php:129
+msgid "Purchasable"
+msgstr ""
+
+#: includes/class-backend.php:132
+msgid "Allows to purchase it on this store?"
+msgstr ""
+
+#: includes/class-backend.php:142
+msgid "Open in new tab"
+msgstr ""
+
+#: includes/class-backend.php:145
+msgid "Open external / affiliate URLs in new tab?"
+msgstr ""
+
+#: includes/class-backend.php:155
+msgid "URLs"
+msgstr ""
+
+#: includes/class-backend.php:165
+#: includes/class-backend.php:462
+msgid "Button text"
+msgstr ""
+
+#: includes/class-backend.php:169
+#: includes/class-backend.php:248
+#: includes/class-backend.php:385
+#: includes/class-frontend.php:137
+msgid "Buy product"
+msgstr ""
+
+#: includes/class-backend.php:173
+#: includes/class-backend.php:463
+msgid "Product URL"
+msgstr ""
+
+#: includes/class-backend.php:176
+msgid "https://"
+msgstr ""
+
+#: includes/class-backend.php:181
+#: includes/class-backend.php:464
+msgid "remove"
+msgstr ""
+
+#: includes/class-backend.php:190
+msgid "+ New URL"
+msgstr ""
+
+#: includes/class-backend.php:303
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: includes/class-backend.php:306
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-backend.php:309
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-backend.php:311
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-backend.php:314
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-backend.php:319
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-backend.php:326
+#: includes/class-backend.php:431
+msgid "Settings"
+msgstr ""
+
+#: includes/class-backend.php:329
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-backend.php:341
+msgid "Position on product archive"
+msgstr ""
+
+#: includes/class-backend.php:344
+#: includes/class-backend.php:357
+msgid "Above the add to cart button"
+msgstr ""
+
+#: includes/class-backend.php:345
+#: includes/class-backend.php:358
+msgid "Under the add to cart button"
+msgstr ""
+
+#: includes/class-backend.php:346
+#: includes/class-backend.php:359
+msgid "Under the title"
+msgstr ""
+
+#: includes/class-backend.php:347
+#: includes/class-backend.php:360
+msgid "Under the price"
+msgstr ""
+
+#: includes/class-backend.php:348
+#: includes/class-backend.php:363
+msgid "No (hide it)"
+msgstr ""
+
+#. translators: shortcode
+#: includes/class-backend.php:350
+msgid "Choose where to display external product buttons on product archive page; use %s shortcode to place it anywhere."
+msgstr ""
+
+#: includes/class-backend.php:354
+msgid "Position on single product"
+msgstr ""
+
+#: includes/class-backend.php:361
+msgid "Under the excerpt"
+msgstr ""
+
+#: includes/class-backend.php:362
+msgid "Under the meta"
+msgstr ""
+
+#. translators: shortcode
+#: includes/class-backend.php:365
+msgid "Choose where to display external product buttons on a single product page; use %s shortcode to place it anywhere."
+msgstr ""
+
+#: includes/class-backend.php:369
+msgid "Button CSS class"
+msgstr ""
+
+#. translators: css class
+#: includes/class-backend.php:377
+msgid "Add CSS class for external product button, split by one space. Default: %s"
+msgstr ""
+
+#: includes/class-backend.php:381
+msgid "Default button text"
+msgstr ""
+
+#: includes/class-backend.php:388
+msgid "Use [n] for product name."
+msgstr ""
+
+#: includes/class-backend.php:447
+msgid "Community support"
+msgstr ""
+
+#: includes/class-frontend.php:227
+msgid "Before URLs"
+msgstr ""
+
+#: includes/class-frontend.php:228
+msgid "After URLs"
+msgstr ""
